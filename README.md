@@ -5,10 +5,19 @@ All notebooks were executed and verified in Google Colab, with outputs retained 
 
 Repository Structure
 
-
-
-
-
+AutoGluon-Assignment/
+│
+├── AutoGluon.ipynb                          # Main AutoGluon starter notebook
+├── AutoGluon_Tabular_In_Depth.ipynb         # In-Depth Tabular Training
+├── california_housing_autogluon.ipynb       # California Housing Model (Regression)
+├── ieee_fraud_autogluon.ipynb               # IEEE Fraud Detection (Classification)
+├── tabular_feature_engineering_autogluon.ipynb  # Auto Feature Engineering + Stacking
+├── tabular_multimodal_autogluon.ipynb       # Multimodal Learning (text + numeric)
+├── README.md                                # Project documentation
+│
+└── Part1/
+    └── Tabular_QuickStart/
+        └── tabular_quick_start_autogluon.ipynb   # Quick Start Tutorial
 
 Kaggle Projects
 Notebook	                Objective
@@ -41,8 +50,15 @@ Video Demonstrations:
   Dataset overview
   Model training process
   Output and leaderboard interpretation
-All videos are available in the /videos/ directory.
 
+Video Walkthroughs (Google Drive Links)
+
+- IEEE Fraud Detection — [](https://drive.google.com/file/d/1prGK-vlhfBFFZWLVmpqL10GpN7jEpSlx/view?usp=drive_link)
+- California Housing — [](https://drive.google.com/file/d/1QGYy52e6AdkFIuvzpVS72deUFm6k7AvK/view?usp=sharing)
+- Tabular Quick Start — [](https://drive.google.com/file/d/1z1OncShVrcx3bprDsEu0SClJhBf8s1J1/view?usp=drive_link)
+- Tabular In-Depth —  [](https://drive.google.com/file/d/1rqRXundokcjHwn3poU1mjT9YyKauMlfs/view?usp=sharing)
+- Tabular Multimodal — [](https://drive.google.com/file/d/1kOiafEa6OBUXJlBGhwczKqvRIfFi-wE_/view?usp=sharing)
+- Feature Engineering — [](https://drive.google.com/file/d/1_HiaCdINxJzkmqvH5mRKDd5z0JyPnvUE/view?usp=drive_link)
 
 
   
