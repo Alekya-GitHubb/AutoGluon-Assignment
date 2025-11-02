@@ -45,22 +45,16 @@ RMSE / R²	              Used for regression (California Housing).
 Feature Importance	    Explains most influential features for model prediction.
 
 
-
-
-Video Demonstrations:
-  Each notebook has a 1–2 minute walkthrough video explaining:
-  Dataset overview
-  Model training process
-  Output and leaderboard interpretation
-
 Video Walkthroughs (Google Drive Links)
 
-- IEEE Fraud Detection — [](https://drive.google.com/file/d/1prGK-vlhfBFFZWLVmpqL10GpN7jEpSlx/view?usp=drive_link)
-- California Housing — [](https://drive.google.com/file/d/1QGYy52e6AdkFIuvzpVS72deUFm6k7AvK/view?usp=sharing)
-- Tabular Quick Start — [](https://drive.google.com/file/d/1z1OncShVrcx3bprDsEu0SClJhBf8s1J1/view?usp=drive_link)
-- Tabular In-Depth —  [](https://drive.google.com/file/d/1rqRXundokcjHwn3poU1mjT9YyKauMlfs/view?usp=sharing)
-- Tabular Multimodal — [](https://drive.google.com/file/d/1kOiafEa6OBUXJlBGhwczKqvRIfFi-wE_/view?usp=sharing)
-- Feature Engineering — [](https://drive.google.com/file/d/1_HiaCdINxJzkmqvH5mRKDd5z0JyPnvUE/view?usp=drive_link)
+| Notebook | Video Link |
+|---------|-----------|
+| IEEE Fraud Detection | [Watch Video](https://drive.google.com/file/d/1prGK-vlhfBFFZWLVmpqL10GpN7jEpSlx/view?usp=drive_link) |
+| California Housing | [Watch Video](https://drive.google.com/file/d/1QGYy52e6AdkFIuvzpVS72deUFm6k7AvK/view?usp=sharing) |
+| Tabular Quick Start | [Watch Video](https://drive.google.com/file/d/1z1OncShVrcx3bprDsEu0SClJhBf8s1J1/view?usp=drive_link) |
+| Tabular In-Depth | [Watch Video](https://drive.google.com/file/d/1rqRXundokcjHwn3poU1mjT9YyKauMlfs/view?usp=sharing) |
+| Tabular Multimodal | [Watch Video](https://drive.google.com/file/d/1kOiafEa6OBUXJlBGhwczKqvRIfFi-wE_/view?usp=sharing) |
+| Feature Engineering | [Watch Video](https://drive.google.com/file/d/1_HiaCdINxJzkmqvH5mRKDd5z0JyPnvUE/view?usp=drive_link) |
 
 
   
