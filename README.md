@@ -1,35 +1,32 @@
-AutoGluon Assignment – Part 1
+AutoGluon Assignment
 
-This repository demonstrates multiple AutoGluon use cases, including Kaggle datasets and official AutoGluon tutorials.
-All notebooks were executed and verified in Google Colab, with outputs retained for evaluation as required in the assignment.
+This repository showcases end-to-end AutoML workflows using AutoGluon, including Kaggle problems and official AutoGluon tutorials.
+All notebooks were executed in Google Colab, and results (output cells, metrics & leaderboards) are preserved as required.
 
 Repository Structure
 
 AutoGluon-Assignment/
 │
-├── AutoGluon.ipynb                          # Main AutoGluon starter notebook
-├── AutoGluon_Tabular_In_Depth.ipynb         # In-Depth Tabular Training
-├── california_housing_autogluon.ipynb       # California Housing Model (Regression)
-├── ieee_fraud_autogluon.ipynb               # IEEE Fraud Detection (Classification)
-├── tabular_feature_engineering_autogluon.ipynb  # Auto Feature Engineering + Stacking
-├── tabular_multimodal_autogluon.ipynb       # Multimodal Learning (text + numeric)
-├── README.md                                # Project documentation
+├── AutoGluon.ipynb                               # Intro notebook
+├── AutoGluon_Tabular_In_Depth.ipynb              # Advanced tabular modeling
+├── california_housing_autogluon.ipynb            # Regression demo (Kaggle California Housing)
+├── ieee_fraud_autogluon.ipynb                    # Fraud detection (Kaggle IEEE)
+├── tabular_feature_engineering_autogluon.ipynb   # Automated feature engineering + stacking
+├── tabular_multimodal_autogluon.ipynb            # Multimodal learning (text + numeric)
 │
 └── Part1/
     └── Tabular_QuickStart/
-        └── tabular_quick_start_autogluon.ipynb   # Quick Start Tutorial
+        └── tabular_quick_start_autogluon.ipynb   # Quick start tutorial
 
-Kaggle Projects
-Notebook	                Objective
-IEEE Fraud Detection	    Detect fraudulent transactions using AutoGluon’s binary classification on the Kaggle IEEE dataset.
-California Housing	      Predict median house prices using AutoGluon’s regression model.
+        | Notebook                                      | Problem Type            | Goal                                                         |
+| --------------------------------------------- | ----------------------- | ------------------------------------------------------------ |
+| `ieee_fraud_autogluon.ipynb`                  | Classification (Kaggle) | Detect fraudulent transactions                               |
+| `california_housing_autogluon.ipynb`          | Regression (Kaggle)     | Predict median house values                                  |
+| `tabular_quick_start_autogluon.ipynb`         | Tabular QuickStart      | 1-line AutoML training & leaderboard                         |
+| `AutoGluon_Tabular_In_Depth.ipynb`            | Advanced Tabular        | Best-quality training, time-limit tuning, feature importance |
+| `tabular_multimodal_autogluon.ipynb`          | Multimodal              | Train on numeric + category + text features                  |
+| `tabular_feature_engineering_autogluon.ipynb` | Feature Engineering     | Auto-generated features + model stacking                     |
 
-AutoGluon Tutorials
-Notebook	              Focus
-Tabular Quick           Start	Demonstrates AutoGluon’s one-line model training and leaderboard generation.
-Tabular In-Depth	      Explores presets, time limits, and feature importance analysis.
-Tabular Multimodal	    Handles datasets combining numeric, categorical, and text features.
-Feature Engineering	    Shows AutoGluon’s automated feature generation and model stacking.
 
 How to Run:
 1.Open any notebook in Google Colab.
@@ -38,11 +35,13 @@ How to Run:
 3.Run all cells (Runtime → Run all).
 4.All outputs and leaderboards are saved automatically.
 
-Key Evaluation Metrics
-Metric	                Description
-Accuracy / ROC-AUC	    Used for classification tasks (IEEE, Quick Start, In-Depth, Multimodal).
-RMSE / R²	              Used for regression (California Housing).
-Feature Importance	    Explains most influential features for model prediction.
+
+| Key Evaluation Metrics |
+|------------|-----------|
+| Metric | Description |
+| Accuracy / ROC-AUC | Used for classification tasks (IEEE, Quick Start, In-Depth, Multimodal).|
+| RMSE / R²	| Used for regression (California Housing).|
+| Feature Importance | Explains most influential features for model prediction.|
 
 
 Video Walkthroughs (Google Drive Links)
