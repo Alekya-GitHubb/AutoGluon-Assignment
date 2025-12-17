@@ -55,5 +55,15 @@ Video Walkthroughs (Google Drive Links)
 | Tabular Multimodal | [Watch Video](https://drive.google.com/file/d/1kOiafEa6OBUXJlBGhwczKqvRIfFi-wE_/view?usp=sharing) |
 | Feature Engineering | [Watch Video](https://drive.google.com/file/d/1_HiaCdINxJzkmqvH5mRKDd5z0JyPnvUE/view?usp=drive_link) |
 
+Colab Links
+
+| No. | Experiment | Open in Colab |
+|:--:|:--|:--|
+| 1 | ** Ieee fraud detection** | [Open Colab 1](https://colab.research.google.com/drive/1CAHOyyb4G0Ys8FVVgF0qT5weHUp8uoCL?usp=sharing) |
+| 2| **  California housing** | [Open Colab 2](https://colab.research.google.com/drive/10bTLHr6WKSyq3d5b0UldCkyyQ5lTS2rL?usp=sharing) |
+| 3 | ** Tabular classification/regression* | [Open Colab 3](https://colab.research.google.com/drive/19gu0I3_hIlO0MuN-stUkcHZ8bLmq3tBb?usp=sharing)|
+| 4 | ** Multimodal tabular  * | [Open Colab 4](https://colab.research.google.com/drive/1Q-FZw6rrO-dpMAj3__hGCZgjh22JFnmR?usp=sharing) |
+| 5 | ** AutoGluon* | [Open Colab 6](https://colab.research.google.com/drive/1OuKkHCDZtovWvre7NRbq6ooFOrJN4u9u?usp=sharing). |
+| 6 | ** Autogluon tabular In-depth* | [Open Colab 7](https://colab.research.google.com/drive/1JCM6opteYPrgwYhLrfheA_hot5RDmM3Z?usp=sharing).|
 
   
